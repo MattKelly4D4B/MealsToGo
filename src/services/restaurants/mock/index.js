@@ -11,11 +11,12 @@ export const mocks = {
 };
 
 export const mockImages = [
-  "https://www.foodiesfeed.com/wp-content/uploads/2019/06/top-view-for-box-of-2-burgers-home-made-600x899.jpg",
-  "https://www.foodiesfeed.com/wp-content/uploads/2019/04/mae-mu-oranges-ice-600x750.jpg",
-  "https://www.foodiesfeed.com/wp-content/uploads/2020/08/detail-of-pavlova-strawberry-piece-of-cake-600x800.jpg",
-  "https://www.foodiesfeed.com/wp-content/uploads/2019/04/mae-mu-baking-600x750.jpg",
-  "https://www.foodiesfeed.com/wp-content/uploads/2019/04/mae-mu-pancakes-600x750.jpg",
-  "https://www.foodiesfeed.com/wp-content/uploads/2019/02/messy-pizza-on-a-black-table-600x400.jpg",
-  "https://www.foodiesfeed.com/wp-content/uploads/2019/02/pizza-ready-for-baking-600x400.jpg",
+  "https://clipartix.com/wp-content/uploads/2016/03/Junk-food-clipart-free-clipart-images.png",
+  "https://clipartix.com/wp-content/uploads/2016/03/Food-clip-art-microsoft-free-clipart-images.png",
+  "https://clipartix.com/wp-content/uploads/2016/03/Free-clip-art-on-food.png",
+  "https://clipartix.com/wp-content/uploads/2016/03/Food-clip-art-on-clip-art-free-berry-cobbler-and-vintage.jpg",
+  "https://clipartix.com/wp-content/uploads/2016/03/Junk-food-clipart-free-clipart-images.png",
+  "https://clipartix.com/wp-content/uploads/2016/03/Food-clip-art-microsoft-free-clipart-images.png",
+  "https://clipartix.com/wp-content/uploads/2016/03/Junk-food-snacks-clipart-free-clipart-images.gif",
+  "https://clipartix.com/wp-content/uploads/2016/03/Food-clip-art-on-clip-art-free-berry-cobbler-and-vintage.jpg",
 ];
